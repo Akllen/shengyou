@@ -1,4 +1,4 @@
-module github.com/Akllen/shengyou
+module github.com/Akllen/sytool
 
 go 1.13
 
